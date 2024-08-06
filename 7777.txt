@@ -1,0 +1,1 @@
+测试删除.git/index文件后执行git reset
